@@ -20,9 +20,9 @@ Run-from-the-Ruckus is a 2D action-survival game built using Unity and C#. The p
 
 ## Screenshots
 
-- Choosing the Player: `images/c![67c72aff-8154-4dc0-802d-2c1b28516b33](https://github.com/user-attachments/assets/0642357b-8ad1-4ede-a8ee-be6d2224b0c8)
-hoose_player.png`
-- Player Movement: `images/player_movement.png`
+- Choosing the Player:
+- ![image alt](https://github.com/Aishwaryamm1234/Run-from-the-Ruckus/blob/c8fe85b491dc5a244f483b3151c7e5db54d917da/Screenshot%202024-12-08%20135235.png)
+- Player Movement: ![image alt](https://github.com/Aishwaryamm1234/Run-from-the-Ruckus/blob/c8fe85b491dc5a244f483b3151c7e5db54d917da/Screenshot%202024-12-08%20135235.png)
 - Encountering Monster: `images/monster_encounter.png`
 - Game Over: `images/player_destroyed.png`
 - Game Assets: `images/game_assets.png`
